@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 **I help professional software engineers (backend, frontend, qa) to develop their quality mindset and deliver bug-free software so they become top-level engineers**
 <br/>
-* 🤖   I’m a Software Engineer in Test & Advisor 
+* 🤖   I’m a Software Engineer in Quality & Advisor 
 * 🌐   I have a [personal blog](https://www.jianshu.com/u/9a188def5e01) where you can find a lot of content about Quality Engineering
 
 <br />
